@@ -13,3 +13,15 @@ body{
     padding-top: 30px;
     padding-bottom: 20px;
 }
+
+.parceiros{
+    background-color: skyblue;
+}
+
+.servicos{
+    background-color: blueviolet;
+}
+
+.bg-footer{
+    background-color: cadetblue;
+}
